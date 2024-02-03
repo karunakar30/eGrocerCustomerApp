@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "778701256056",
+    "project_id": "organics-4b9b3",
+    "storage_bucket": "organics-4b9b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778701256056:android:17c26a1cf32c679d5c448d",
+        "android_client_info": {
+          "package_name": "com.customer.greenfield"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv4N3-_wT4Z623oetTaagL3tO-e7spyaw"
+        },
+        {
+          "current_key": "AIzaSyBu6MyZUBhWEMu7y8No-cN7c9LMyBQIHDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778701256056:android:4428ca7a9edf4c2f5c448d",
+        "android_client_info": {
+          "package_name": "com.usergreenfeild.greenfeild"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv4N3-_wT4Z623oetTaagL3tO-e7spyaw"
+        },
+        {
+          "current_key": "AIzaSyBu6MyZUBhWEMu7y8No-cN7c9LMyBQIHDQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
